@@ -10,7 +10,7 @@ A professional, localized web application designed for the Indian market to reco
 ## 🛠️ Planned Tech Stack
 - **Frontend:** HTML5, CSS3, JavaScript / React
 - **Styling:** Tailwind CSS
-- **Version Control & Environment:** VS Code, antigravity, Git, GitHub
+- **Version Control & Environment:** VS Code, Antigravity, Git, GitHub
 
 ## 📂 Project Structure (Planned)
 - `/public` - Static assets and localization translation files
